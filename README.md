@@ -23,8 +23,9 @@
 3. Включи **GitHub Pages**:
    - Перейди в `Settings` → `Pages`
    - Выбери ветку `main` → Save
-4. Приложение будет доступно по адресу:  
-   `https://твой-username.github.io/название-репозитория/`
+4. Приложение будет доступно по адресу:  The-Voice-of-Werther
+ 👉 [Перейти к Голосу Вертеры](https://savdoshin.github.io/The-Voice-of-Werther/index.html)
+
 
 > **Важно**: Не публикуй свой API-ключ в репозитории!
 
