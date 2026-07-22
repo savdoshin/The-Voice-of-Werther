@@ -16,14 +16,6 @@
 
 ---
 
-## Развёртывание на GitHub Pages
-
-1. Создай новый репозиторий на GitHub
-2. Загрузи все файлы
-3. Включи **GitHub Pages**:
-   - Перейди в `Settings` → `Pages`
-   - Выбери ветку `main` → Save
-4. Приложение будет доступно по адресу:  The-Voice-of-Werther
  👉 [Перейти к Голосу Вертеры](https://savdoshin.github.io/The-Voice-of-Werther/index.html)
 
 
